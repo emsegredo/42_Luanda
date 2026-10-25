@@ -166,7 +166,6 @@ if __name__ == "__main__":
         seed.bloom()
     seed.show()
     print(f"[statistics for {seed.name}]")
-    print("[ESTATISTICAS ENTRAM AQUI...........]")
     # print("\n=== Anonymous")
     # any = Plant.Anonymous("Unknown", 0.0, 0)
 
